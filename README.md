@@ -18,7 +18,9 @@
 
 So which stock/s performed better for years 2017 and 2018?
 
-<!--![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
+![2017 Stock data](Resources/VB_2017_output.png)
+
+![2018 Stock data](Resources/VB_output.png)
 Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
 
 Did refactoring make our script run faster?
