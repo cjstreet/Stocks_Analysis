@@ -22,10 +22,10 @@ So which stock/s performed better for years 2017 and 2018?
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_2017_Output.png" width ="392" height ="242" align ="left">
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_Output.png" width ="492" height ="242" align ="left">
 
-```
+<br>
 
 Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
-```
+
 Did refactoring make our script run faster?
 
 By refactoring the code we improved the performance of the script. Most likely this was done by using less memory or taking few steps, the logic was pretty much the same as the original.
