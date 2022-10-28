@@ -18,8 +18,8 @@
 
 So which stock/s performed better for years 2017 and 2018?
 
-![2017 Stock data](Resources/VB_2017_Output.png = 144 x 144)
-<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_2017_Output.png" width ="392" height ="242">
+
+<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_2017_Output.png" width ="392" height ="242" align ="left">
 
 ![2018 Stock data](Resources/VB_Output.png)
 Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
