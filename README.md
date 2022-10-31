@@ -34,10 +34,9 @@ In conclusion, 2017 was a profitable year for the majority of stocks and 2018 wa
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_Code.png" width ="1100" height ="650" align ="left"> <br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /> <br />
 
-The above timed scripts tests show that the original code for 2018 ran in .445 seconds and the refactored code ran in .086 seconds. The refactored code ran 20x faster the orginal code. By refactoring the code we improved the performance of the code. Most likely this was done by using less memory or taking few steps, the logic was pretty much the same as the original.
+The above timed scripts tests show that the original code for 2018 ran in .445 seconds and the refactored code ran in .086 seconds. The refactored code ran 20x faster the orginal code. By refactoring the code we improved the performance of the code. Most likely this was done by using less memory (using arrays) and/or performing fewer operations, the logic was similar to the original.
 
 ## Summary
-
 
 ### What are the advantages or disadvantages of refactoring code?
 Advantages of refactoring are faster run times, simplifying the code, maintainability, and making the code easier to update.
