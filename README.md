@@ -24,10 +24,11 @@ So which stock/s performed better for years 2017 and 2018?
 <br /><br /><br /><br /><br /><br /><br /><br /><br /> <br />
 
 Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
-<br /><br /><br />
+<br /><br />
 ### Original Code vs. Refactored Code<br /> <br />
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VBChallenge_2018_Original.png" width ="325" height ="250" align ="left">
-<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VBChallenge_2018_Refactored.png" width ="325" height ="250" align ="left"> <br />
+<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VBChallenge_2018_Refactored.png" width ="325" height ="250" align ="left"> <br /> 
+<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_Code.png" width ="425" height ="500" align ="left"> <br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /> <br />
 Did refactoring make our script run faster?
 
