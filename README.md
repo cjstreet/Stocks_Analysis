@@ -16,14 +16,17 @@
  
 ## Results
 
-So which stock/s performed better for years 2017 and 2018?
+Stock performance for 2017 and 2018.
 
 
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_2017_Output.png" width ="392" height ="242" align ="left">
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_Output.png" width ="492" height ="242" align ="left"> <br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /> <br />
+Based on the total daily volume and yearly return, 2017 was a more profitable year for the stocks. For 2017, all stocks with the exception of the TERP (-7.2%) stock were profitable. The total daily volume and yearly return were not necessary correlated. SPWR had the highest total daily volume with roughly 800,000,000 but only a 23% return. DQ had the highest return for 2017 of approximately 200%, but only 36,000,000 in total daily value. So total daily value may not necessary an be a good indicator of the profitability of the stock. 
 
-Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
+For the year 2018, all but two stocks (RUN & ENPH) reported a yearly loss of return. DQ reported the highest loss with -63%. Again, the highest total daily volume did not necessary indicate a positive return. SPWR had one of the highest total daily volumes ($5m) but their yearly return was -45%. The two stocks that faired well in 2018 were ENPH with 82% return and RUN with 84%. RUN was the only stock to improve from 5.5% in 2017 to 84% in 2018. 
+
+In conclusion, 2017 was a profitable year for the majority of stocks and 2018 was the opposite with the majority of stocks reporting a loss. 
 <br /><br />
 ### Original Code vs. Refactored Code<br /> <br />
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VBChallenge_2018_Original.png" width ="325" height ="250" align ="left">
