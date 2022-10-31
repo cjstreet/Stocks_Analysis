@@ -33,9 +33,8 @@ In conclusion, 2017 was a profitable year for the majority of stocks and 2018 wa
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VBChallenge_2018_Refactored.png" width ="325" height ="250" align ="left"> <br /> 
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_Code.png" width ="1100" height ="650" align ="left"> <br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /> <br />
-Did refactoring make our script run faster?
 
-By refactoring the code we improved the performance of the script. Most likely this was done by using less memory or taking few steps, the logic was pretty much the same as the original.
+The above timed scripts tests show that the original code for 2018 ran in .445 seconds and the refactored code ran in .086 seconds. The refactored code ran 20x faster the orginal code. By refactoring the code we improved the performance of the code. Most likely this was done by using less memory or taking few steps, the logic was pretty much the same as the original.
 
 ## Summary
 
