@@ -34,7 +34,7 @@ In conclusion, 2017 was a profitable year for the majority of stocks and 2018 wa
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_Code.png" width ="1100" height ="650" align ="left"> <br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /> <br />
 
-The above timed scripts tests show that the original code for 2018 ran in .445 seconds and the refactored code ran in .086 seconds. The refactored code ran 20x faster the orginal code. By refactoring the code we improved the performance of the code. Most likely this was done by using less memory (using arrays) and/or performing fewer operations, the logic was similar to the original.
+The above timed scripts tests show that the original code for 2018 ran in .445 seconds and the refactored code ran in .086 seconds. The refactored code ran 20x faster the orginal code. By refactoring the code we improved the performance of the code. Most likely this was done by using less memory (using arrays) and/or performing fewer operations (reducing the number of times the outer loop ran), the logic was similar to the original.
 
 ## Summary
 
@@ -43,5 +43,5 @@ Advantages of refactoring are faster run times, simplifying the code, maintainab
 Disadvantages of refactoring are a programmer could introduce a logic error into the code and it would have to be tested more.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
-Overall refactoring the original script made the script faster and easier to understand.
+Overall refactoring the original script by using arrays and running fewer operations (reducing the number of times we entered the outer loop) the script faster and easier to understand.
 
