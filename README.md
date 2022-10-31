@@ -27,8 +27,8 @@ Using images and examples of your code, compare the stock performance between 20
 <br /><br />
 ### Original Code vs. Refactored Code<br /> <br />
 <img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VBChallenge_2018_Original.png" width ="325" height ="250" align ="center">
-<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VBChallenge_2018_Refactored.png" width ="1100" height ="650" align ="center"> <br /> 
-<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_Code.png" width ="425" height ="500" align ="left"> <br />
+<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VBChallenge_2018_Refactored.png" width ="325" height ="250" align ="center"> <br /> 
+<img src = "https://github.com/cjstreet/stocks_analysis/blob/main/Resources/VB_Code.png" width ="1100" height ="650" align ="left"> <br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /> <br />
 Did refactoring make our script run faster?
 
